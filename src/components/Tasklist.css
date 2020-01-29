@@ -1,0 +1,15 @@
+button {
+    margin-left: 10px;
+}
+
+.taskList {
+    margin-top: 40px;
+}
+
+.listName {
+    font-weight: bold;
+}
+
+.listItem {
+    display: inline;
+}
